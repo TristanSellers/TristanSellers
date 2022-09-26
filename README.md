@@ -15,7 +15,7 @@ A bootcamp graduate specializing in Python and SQL that is currently seeking a j
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/2660262/42069843-48b884dc-7b97-11e8-9eae-ff18255369fa.png" />
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj9Sc4fUq12dySP8XuEGkJX8beSJul_tjc2Dd96zNClQ&s)" />
 <br />
 
 #
